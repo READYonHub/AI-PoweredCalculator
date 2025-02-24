@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+
+
+# Full Project with dependencies
+### https://mega.nz/file/WmAgRSyT#VG1rFuO6Sskyw4y9JyS068Nbt3xS3G74YtYGrSRns0s
